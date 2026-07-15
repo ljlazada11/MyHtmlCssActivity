@@ -22,12 +22,11 @@ header {
     padding:10px;
 }
 
-nav ul {
+nav {
     display:flex;
     justify-content:center;
     list-style:none;
     background:beige;
-    color:;
 }
 
 nav ul li {

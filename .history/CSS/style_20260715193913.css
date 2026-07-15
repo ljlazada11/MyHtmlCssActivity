@@ -16,18 +16,17 @@ body {
 }
 
 header {
-    background:#000000;
+    background:#0d2ca8;
     color:white;
     text-align:center;
-    padding:10px;
+    padding:20px;
 }
 
 nav ul {
     display:flex;
     justify-content:center;
     list-style:none;
-    background:beige;
-    color:;
+    background:#f7e6c4;
 }
 
 nav ul li {

@@ -26,8 +26,8 @@ nav ul {
     display:flex;
     justify-content:center;
     list-style:none;
-    background:beige;
-    color:;
+    background:black;
+    color:white;
 }
 
 nav ul li {

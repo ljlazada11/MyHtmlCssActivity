@@ -22,7 +22,7 @@ header {
     padding:10px;
 }
 
-nav ul {
+h1 {
     display:flex;
     justify-content:center;
     list-style:none;

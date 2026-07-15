@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 0;
+    padding: 30px;
+    box-sizing: border-box;    
+}
+nav {
+    background-color:beige;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+nav a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+img {
+    margin-left: auto;
+    width: 135px;
+    height: 135px;
+       
+}
+.profile {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+.profile img {
+    width: 150px;
+    height: 180px;
+    border: 2px solid gray;
+}
